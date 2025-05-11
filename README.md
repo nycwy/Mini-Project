@@ -32,10 +32,10 @@ This is a simple sidebar menu created using HTML and CSS. It features a backgrou
 ## Project Preview
 
 ### 📷 Image 1
-![Initial View of the page](https://github.com/nycwy/Mini-Project.git/main/photo1.png)
+https://github.com/nycwy/Mini-Project/blob/main/photo1.png
 
 ### 🖼️ Image 2
-![After clicking on hamburger icon](https://github.com/nycwy/Mini-Project.git/main/photo2.png)
+https://github.com/nycwy/Mini-Project/blob/main/photo2.png
 
 
 ## 📘 Credits
